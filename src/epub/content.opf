@@ -47,7 +47,6 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3019</dc:source>
 		<dc:source>https://archive.org/details/pointedroofs00richuoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pointed_Roofs</meta>
@@ -65,7 +64,7 @@
 		<dc:contributor id="artist">József Rippl-Rónai</dc:contributor>
 		<meta property="file-as" refines="#artist">Rippl-Rónai, József</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J%C3%B3zsef_Rippl-R%C3%B3nai</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n84069601</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84069601</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Christopher Hapka</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Hapka, Christopher</meta>
