@@ -37,14 +37,16 @@
 		<meta property="term" refines="#subject-2">sh2008113501</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008114942</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Autobiography</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description"><i>Pointed Roofs</i> is a short modernist novel about seventeen-year-old Miriam Henderson, who is sent to Germany to teach English at a finishing school in Hanover.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Pointed Roofs&lt;/i&gt; (1915) is the first installment in &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson"&gt;Dorothy M. Richardson&lt;/a&gt;’s autobiographical novel sequence &lt;i&gt;Pilgrimage&lt;/i&gt;. It is also the one of the first novels identified with the modernist technique of stream of consciousness.&lt;/p&gt;
+			&lt;p&gt;Set in the early 1890s, &lt;i&gt;Pointed Roofs&lt;/i&gt; centers on seventeen-year-old Miriam Henderson. After her family has run into financial troubles, Miriam is sent to Germany to teach English at a finishing school in Hanover. The narrative chronicles Miriam’s daily life at the school as well as outings to the city and the countryside she undertakes with the other teachers and pupils. All the while, it tells of her experience of living abroad, her attitude to the people around her, her future prospects, as well as her thoughts on religion, literature, and the status of women in society.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3019</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/pointedroofs00richuoft</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -56,35 +58,34 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<dc:creator id="author">Dorothy M. Richardson</dc:creator>
 		<meta property="file-as" refines="#author">Richardson, Dorothy M.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Dorothy Miller Richardson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Dorothy_M._Richardson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50051627</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">József Rippl-Rónai</dc:contributor>
+		<meta property="file-as" refines="#artist">Rippl-Rónai, József</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J%C3%B3zsef_Rippl-R%C3%B3nai</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n84069601</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Christopher Hapka</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Hapka, Christopher</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Mary Glenn Krause</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-3">Krause, Mary Glenn</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Jens Sadowski</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-4">Sadowski, Jens</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-5">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jeff Thoss</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Thoss, Jeff</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
