@@ -3,7 +3,7 @@
 
 [epub|type~="z3998:hymn"] p,
 [epub|type~="z3998:poem"] p,
-[epub|type~="z3998:song"] {
+[epub|type~="z3998:song"]{
 	text-align: initial;
 	text-indent: 0;
 }
