@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-04-26T20:34:39Z</dc:date>
+		<meta property="dcterms:modified">2022-04-26T20:34:39Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,22 +39,22 @@
 		<meta property="term" refines="#subject-3">sh2008114942</meta>
 		<meta property="se:subject">Autobiography</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Pilgrimage</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Pointed Roofs&lt;/i&gt; (1915) is the first installment in &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson"&gt;Dorothy M. Richardson’s&lt;/a&gt; autobiographical novel sequence &lt;i&gt;Pilgrimage&lt;/i&gt;. It is also the one of the first novels identified with the modernist technique of stream of consciousness.&lt;/p&gt;
-			&lt;p&gt;Set in the early 1890s, &lt;i&gt;Pointed Roofs&lt;/i&gt; centers on seventeen-year-old Miriam Henderson. After her family has run into financial troubles, Miriam is sent to Germany to teach English at a finishing school in Hanover. The narrative chronicles Miriam’s daily life at the school as well as outings to the city and the countryside she undertakes with the other teachers and pupils. All the while, it tells of her experience of living abroad, her attitude to the people around her, her future prospects, as well as her thoughts on religion, literature, and the status of women in society.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Pointed Roofs&lt;/i&gt; is the first installment in &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson"&gt;Dorothy M. Richardson’s&lt;/a&gt; autobiographical novel sequence &lt;a href="https://standardebooks.org/collections/pilgrimage"&gt;Pilgrimage&lt;/a&gt;. It is also the one of the first novels identified with the modernist technique of stream of consciousness.&lt;/p&gt;
+			&lt;p&gt;Set in the early 1890s, &lt;i&gt;Pointed Roofs&lt;/i&gt; centers on seventeen-year-old Miriam Henderson. After her family runs into financial troubles, Miriam is sent to Germany to teach English at a finishing school in Hanover. The narrative chronicles Miriam’s daily life at the school, as well as outings to the city and the countryside with the other teachers and pupils. All the while, it tells of her experience of living abroad, her attitude to the people around her, her future prospects, and her thoughts on religion, literature, and the status of women in society.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3019</dc:source>
 		<dc:source>https://archive.org/details/pointedroofs00richuoft</dc:source>
-		<meta property="se:production-notes">typogrify incorrectly wants to replace the non-breaking hyphens in: ch. 1, l. 139 (Ta‑ra‑ra‑la‑eee‑tee), l. 143 and 144 (Mim‑my); ch. 3, l. 12 (Aus‑geh‑hen), l. 102 (Whenhy‑<em>com</em>eth. Whenhy‑<em>com</em>eth), l. 125 (Ah‑ho), l. 187 (sh‑ham‑poo); ch. 4, l. 22 (glooo‑om); ch. 6, line 39 (Ta‑ta), l. 49 (a‑a‑ach), l. 142 (bee‑eeem), l. 208 (Oh‑ho), l. 312 and 316 (Pom‑erain‑eeya); ch. 8, l. 119 (win‑ter), l. 198 (<em>Sonn</em>‑enschein), l. 207 (Ho‑lah); ch. 10, l. 55 (Oh‑ho), l. 56 (Ih‑hi), l. 58 (Tre‑la‑la), l. 59 (Turrah‑lahee‑tee), l. 73 (Bair‑ta), l. 145 (Ah‑eh), l. 175 (Cre‑ay‑ay‑tion), l. 177 (a‑Bide), l. 189 (P‑ooof), l. 243 (en‑gaged), l. 277 and 278 (Männer‑geschichten), l. 290 (Eh‑h). typogrify incorrectly wants to change “Fr’n” to “Fr.’n” in ch. 3, l. 183 and 190.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">Much language is not italicized on purpose to emphasize the immersive nature of the text and dialog. typogrify incorrectly wants to replace the non-breaking hyphens in: ch. 1, l. 139 (Ta‑ra‑ra‑la‑eee‑tee), l. 143 and 144 (Mim‑my); ch. 3, l. 12 (Aus‑geh‑hen), l. 102 (Whenhy‑<em>com</em>eth. Whenhy‑<em>com</em>eth), l. 125 (Ah‑ho), l. 187 (sh‑ham‑poo); ch. 4, l. 22 (glooo‑om); ch. 6, line 39 (Ta‑ta), l. 49 (a‑a‑ach), l. 142 (bee‑eeem), l. 208 (Oh‑ho), l. 312 and 316 (Pom‑erain‑eeya); ch. 8, l. 119 (win‑ter), l. 198 (<em>Sonn</em>‑enschein), l. 207 (Ho‑lah); ch. 10, l. 55 (Oh‑ho), l. 56 (Ih‑hi), l. 58 (Tre‑la‑la), l. 59 (Turrah‑lahee‑tee), l. 73 (Bair‑ta), l. 145 (Ah‑eh), l. 175 (Cre‑ay‑ay‑tion), l. 177 (a‑Bide), l. 189 (P‑ooof), l. 243 (en‑gaged), l. 277 and 278 (Männer‑geschichten), l. 290 (Eh‑h). typogrify incorrectly wants to change “Fr’n” to “Fr.’n” in ch. 3, l. 183 and 190.</meta>
+		<meta property="se:word-count">57943</meta>
+		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pointed_Roofs</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dorothy-m-richardson_pointed-roofs</meta>
-		<meta id="collection-1" property="belongs-to-collection">Pilgrimage</meta>
-		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:creator id="author">Dorothy M. Richardson</dc:creator>
 		<meta property="file-as" refines="#author">Richardson, Dorothy M.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Dorothy Miller Richardson</meta>
@@ -91,6 +91,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">François Grandjean</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grandjean, François</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
