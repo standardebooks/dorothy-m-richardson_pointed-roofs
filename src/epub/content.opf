@@ -51,7 +51,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3019</dc:source>
 		<dc:source>https://archive.org/details/pointedroofs00richuoft</dc:source>
 		<meta property="se:production-notes">Much language is not italicized on purpose to emphasize the immersive nature of the text and dialog. typogrify incorrectly wants to replace the non-breaking hyphens in: ch. 1, l. 139 (Ta‑ra‑ra‑la‑eee‑tee), l. 143 and 144 (Mim‑my); ch. 3, l. 12 (Aus‑geh‑hen), l. 102 (Whenhy‑cometh. Whenhy‑cometh), l. 125 (Ah‑ho), l. 187 (sh‑ham‑poo); ch. 4, l. 22 (glooo‑om); ch. 6, line 39 (Ta‑ta), l. 49 (a‑a‑ach), l. 142 (bee‑eeem), l. 208 (Oh‑ho), l. 312 and 316 (Pom‑erain‑eeya); ch. 8, l. 119 (win‑ter), l. 198 (Sonn‑enschein), l. 207 (Ho‑lah); ch. 10, l. 55 (Oh‑ho), l. 56 (Ih‑hi), l. 58 (Tre‑la‑la), l. 59 (Turrah‑lahee‑tee), l. 73 (Bair‑ta), l. 145 (Ah‑eh), l. 175 (Cre‑ay‑ay‑tion), l. 177 (a‑Bide), l. 189 (P‑ooof), l. 243 (en‑gaged), l. 277 and 278 (Männer‑geschichten), l. 290 (Eh‑h). typogrify incorrectly wants to change “Fr’n” to “Fr.’n” in ch. 3, l. 183 and 190.</meta>
-		<meta property="se:word-count">57943</meta>
+		<meta property="se:word-count">57839</meta>
 		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pointed_Roofs</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dorothy-m-richardson_pointed-roofs</meta>
