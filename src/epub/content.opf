@@ -62,6 +62,12 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Dorothy_M._Richardson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50051627</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="writer-of-foreword">J. D. Beresford</dc:contributor>
+		<meta property="file-as" refines="#writer-of-foreword">Beresford, J. D.</meta>
+		<meta property="se:name.person.full-name" refines="#writer-of-foreword">John Davys Bereford</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-foreword">https://en.wikipedia.org/wiki/J._D._Beresford</meta>
+		<meta property="se:url.authority.nacoaf" refines="#writer-of-foreword">http://id.loc.gov/authorities/names/n50006853</meta>
+		<meta property="role" refines="#writer-of-foreword" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">József Rippl-Rónai</dc:contributor>
 		<meta property="file-as" refines="#artist">Rippl-Rónai, József</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J%C3%B3zsef_Rippl-R%C3%B3nai</meta>
