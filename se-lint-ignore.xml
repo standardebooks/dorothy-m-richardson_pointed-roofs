@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="chapter-6.xhtml">
 		<ignore code="t-003">
+			<line>314</line>
 			<reason>Dialog from the same speaker spans multiple &lt;p&gt;s.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-10.xhtml">
 		<ignore code="t-003">
+			<line>258</line>
 			<reason>Dialog from the same speaker spans multiple &lt;p&gt;s.</reason>
 		</ignore>
 	</file>
